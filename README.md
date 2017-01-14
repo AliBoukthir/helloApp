@@ -41,4 +41,13 @@ Accès aux informations de profile: http://localhost:8080/helloApp/home#/profile
 
 https://github.com/AliBoukthir/helloApp
 
+6 – Test de l’application :
+
+Pour tester l’application connecter avec :
+
+E-mail: user1@gmail.com
+
+Mot de passe: 123456$$
+
+
 Remarque (bug): pour afficher le nouveau statut l’utilisateur doit poster un autre statut nous nous ne pouvions pas corriger ce bug bien que le code est correcte. 
