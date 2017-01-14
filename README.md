@@ -50,4 +50,4 @@ E-mail: user1@gmail.com
 Mot de passe: 123456$$
 
 
-Remarque (bug): pour afficher le nouveau statut l’utilisateur doit poster un autre statut nous nous ne pouvions pas corriger ce bug bien que le code est correcte. 
+Remarque (bug): pour afficher le nouveau statut l’utilisateur doit poster un autre statut nous ne pouvions pas corriger ce bug bien que le code est correcte. 
