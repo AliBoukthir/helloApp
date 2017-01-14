@@ -1,6 +1,6 @@
 # helloApp
 
-Application « Hello »
+Application « Hello » - ALI Boukthir et MOHAMMED Romdhani   
 
 1 - Objectif :
 
