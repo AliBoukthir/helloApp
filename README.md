@@ -20,4 +20,5 @@ Poster un statut : http://localhost:8080/helloApp/home#/
 Accès aux informations de profil: http://localhost:8080/helloApp/home#/profile
 4 - Code source de l’application + base de données :
 https://github.com/AliBoukthir/helloApp
+
 Remarque (bug): pour afficher le nouveau statut l’utilisateur doit poster un autre statut nous nous ne pouvions pas corriger ce bug bien que le code est correcte. 
