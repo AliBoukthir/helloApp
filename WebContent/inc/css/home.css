@@ -1,0 +1,231 @@
+/*bootstrap change */
+
+.btn:focus {
+    outline: none;
+}
+
+
+/* navbar */
+
+.navbar {
+    border-radius: 0;
+    position: fixed;
+    width: 100%;
+    z-index: 20;
+}
+
+.navbar-default {
+    background-color: #00b5b5;
+    border-color: #bdbdbd;
+}
+
+.navbar-default .navbar-brand {
+    color: #666666;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color: #ffffff;
+}
+
+.navbar-default .navbar-text {
+    color: #666666;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #666666;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #ffffff;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+    color: #ffffff;
+    background-color: #bdbdbd;
+}
+
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+    color: #ffffff;
+    background-color: #bdbdbd;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #bdbdbd;
+}
+
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+    background-color: #bdbdbd;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #666666;
+}
+
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+    border-color: #666666;
+}
+
+.navbar-default .navbar-link {
+    color: #666666;
+}
+
+.navbar-default .navbar-link:hover {
+    color: #ffffff;
+}
+
+@media (max-width: 767px) {
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+        color: #666666;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+        color: #ffffff;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
+    .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
+    .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+        color: #ffffff;
+        background-color: #bdbdbd;
+    }
+}
+
+
+/*end navbar */
+
+
+/*bootstrap change */
+
+
+/* edit footer */
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+#wrapper {
+    min-height: 100%;
+    position: relative;
+}
+
+#content {
+    padding-bottom: 100px;
+}
+
+#footer {
+    width: 100%;
+    height: 40px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    font-weight: bold;
+    color: #999
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+}
+
+
+/* end edit footer */
+
+.mycontainer {
+    /*overflow: hidden;*/
+    height: 800px;
+
+}
+
+.mycontainer>div {
+    float: left;
+    
+    height: 800px;
+    margin-top: 67px
+}
+
+.mycontainer .cont1 {
+    width: 22%;
+    margin-right: 1%;
+    margin-left: 1%
+}
+
+.mycontainer .cont2 {
+    width: 50%;
+    padding: 4px 20px 0 20px;
+    background-color: #fff;
+}
+
+.mycontainer .cont2 textarea {
+    resize: vertical;
+    width: 100%
+}
+
+.mycontainer .cont2 .post {
+    
+    z-index: 5;
+    position: relative
+}
+
+.mycontainer .cont2 .post .length {
+    margin-right: 10px;
+    background-color: #fff;
+    cursor: auto;
+    border: none
+}
+
+.mycontainer .cont2 .btn{
+	margin-top: 10px;
+}
+
+.mycontainer .cont2 .op {
+    opacity: 0.8;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    z-index: 2;
+    background-color: #000;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    display: none;
+    
+}
+
+.mycontainer .cont2 .pubs {
+    background-color: #eee;
+    width: 100%;
+    height: 250px;
+    margin-top: 20px
+}
+
+.cont2 .postt{
+	background-color: #eee;
+    margin-top: 10px;
+    padding: 33px;
+    padding-bottom: 40px
+}
+
+.cont2 .posts{
+	margin-top: 75px
+}
+
+.mycontainer .cont3 {
+    width: 24%;
+    margin-left: 1%;
+}
+
+.profile {
+	padding-left: 90px
+}
+
