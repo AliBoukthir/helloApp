@@ -28,7 +28,16 @@ Poster un statut : http://localhost:8080/helloApp/home#/
 
 Accès aux informations de profil: http://localhost:8080/helloApp/home#/profile
 
-4 - Code source de l’application + base de données :
+4 - Le routage de l’application
+
+Inscription, Connexion : http://localhost:8080/helloApp/
+
+Poster un statut : http://localhost:8080/helloApp/home#/
+
+Accès aux informations de profile: http://localhost:8080/helloApp/home#/profile
+
+
+5 - Code source de l’application + base de données :
 
 https://github.com/AliBoukthir/helloApp
 
